@@ -146,10 +146,8 @@ Fungsi ini menghitung hasil dari komposisi fungsi `h`, `f`, dan `g` secara berur
 
 
 ## Soal Latihan 3.5 (No. 3)
-# Program Menghitung Posisi Titik Terhadap Lingkaran
+### Program Menghitung Posisi Titik Terhadap Lingkaran
 Program tersebut dirancang untuk menentukan apakah suatu titik berada di dalam satu atau kedua lingkaran berdasarkan input yang diberikan pengguna.
-
-## Struktur Program
 
 ### 1. Fungsi `jarak`
 ```go
